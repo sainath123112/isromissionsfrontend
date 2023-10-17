@@ -1,0 +1,13 @@
+.Navbar-links a, .Navbar-login a
+{
+    transition: all 0.25s linear;
+}
+
+.Navbar-links a:hover
+{
+    color: #F4730E;
+}
+.Navbar-login a:hover
+{
+    color: #F4730E;
+}
